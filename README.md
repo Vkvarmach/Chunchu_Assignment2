@@ -23,3 +23,14 @@
     * Biryani
 
     **[LinktoAboutMe.md](AboutMe.md)**
+
+    ---------------
+
+    ## Table of food items
+>To create a table with at least 4food/drinksthat I would recommend someone try.Include a short paragraph that introduces the table.
+
+|mandatory     |fav1     |fav2     |fav3     |fav4     |
+| :-----:      | :-----: | :-----: | :-----: | :-----: |
+|food/drink    |biryani  |pasta    |pizza    |pepsi    |
+|location      |hyderabad|delhi    |vizag    |mumbai   |
+|money         |50-40    |40-30    |30-20    |20-10    |
