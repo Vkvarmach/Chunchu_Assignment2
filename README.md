@@ -34,3 +34,11 @@
 |food/drink    |biryani  |pasta    |pizza    |pepsi    |
 |location      |hyderabad|delhi    |vizag    |mumbai   |
 |money         |50-40    |40-30    |30-20    |20-10    |
+
+ --------------
+
+ ## Quotes section
+>"Varmas kings by blood".
+Author: *shivaji* <br>
+>"Think about your thinking".
+Author: *balakrishna* <br>
